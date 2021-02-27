@@ -7,6 +7,7 @@ February 20-27, 2021
 
 Description: An analysis of VeoRide Inc. e-scooter usage on and around the UMD campus from October 2019 and 2020
 
+
 **Dataset Information**
 
 Organization: UMD Department of Transportation Services (DOTS)
