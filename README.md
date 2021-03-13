@@ -3,7 +3,9 @@ University of Maryland (UMD) Data Challenge 2021: Data Exploration to Cultivate 
 
 February 20-27, 2021
 
-**Project title:** VeoRide E-Scooter Usage within the UMD Transportation System
+**Project Information:** 
+
+Title: VeoRide E-Scooter Usage within the UMD Transportation System
 
 Team Members: Claire Mytelka, Bryan Rezende, Zachary Dorris, Ethan Levy
 
