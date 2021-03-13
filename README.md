@@ -5,6 +5,8 @@ February 20-27, 2021
 
 **Project title:** VeoRide E-Scooter Usage within the UMD Transportation System
 
+Team Members: Claire Mytelka, Bryan Rezende, Zachary Dorris, Ethan Levy
+
 Description: An analysis of VeoRide Inc. e-scooter usage on and around the UMD campus from October 2019 and 2020
 
 
